@@ -36,16 +36,15 @@
         "nixpkgs": "nixpkgs"
       },
       "locked": {
-        "lastModified": 1646110237,
-        "narHash": "sha256-ySZ8ibWhokqLY4WTht/Y/bypyX3H0pwE52BW2bzCf24=",
+        "lastModified": 1646110911,
+        "narHash": "sha256-c0YvzHUoWDHDwg8z74nqyCTgdPKnhiABOVUG+RLI7BM=",
         "owner": "sbellem",
         "repo": "hello-flake",
-        "rev": "4430cad59241c01d6949d714bcd8c326cccb87f1",
+        "rev": "6ce9db0516f84f627027997b43b3a0fa19015f6a",
         "type": "github"
       },
       "original": {
         "owner": "sbellem",
-        "ref": "overlay",
         "repo": "hello-flake",
         "type": "github"
       }
